@@ -1,14 +1,14 @@
 # 💫 About Me:
 # I’m currently working on:
-Java backend projects using Core Java, JDBC, SQL, and Spring Boot, focusing on building clean and scalable applications.<br><br>
+Java backend projects using Core Java, JDBC, SQL, and Spring Boot, focusing on building clean and scalable applications.<br>
 # I’m looking to collaborate on:
-Beginner-friendly Java, Spring Boot, and backend projects, especially REST APIs and database-driven applications.<br><br>
+Beginner-friendly Java, Spring Boot, and backend projects, especially REST APIs and database-driven applications.<br>
 # I’m looking for help with:
-Designing real-time Java projects, API structure, and database optimization.<br><br>
+Designing real-time Java projects, API structure, and database optimization.<br>
 # I’m currently learning:
-Spring Framework, Spring Boot, REST APIs, Hibernate (JPA),ORACLE , and basic frontend integration.<br><br>
+Spring Framework, Spring Boot, REST APIs, Hibernate (JPA),ORACLE , and basic frontend integration.<br>
 # About me:
-Java fundamentals, OOP concepts, JDBC, SQL queries, collections, and beginner Spring concepts.<br><br>
+Java fundamentals, OOP concepts, JDBC, SQL queries, collections, and beginner Spring concepts.<br>
 # Fun fact:
 I’m more excited about learning frameworks than social media trends.
 
